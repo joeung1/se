@@ -1,3 +1,3 @@
 # se
-doc/document
+doc/document \n
 src/main.cpp
