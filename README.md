@@ -1,4 +1,4 @@
 # se
-doc/document
+문서 :doc/document
 
-src/main.cpp
+소스코드 : src/main.cpp
