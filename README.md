@@ -4,5 +4,7 @@
 
 **품질요소측정** : doc/quality.md
 
+**프로젝트 계획서** : doc/manageplan.md
+
 ## 소스코드 위치
 **소스코드** : src/main.cpp
